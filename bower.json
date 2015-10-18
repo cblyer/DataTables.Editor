@@ -1,0 +1,34 @@
+{
+	"name": "datatables editor",
+	"version": "1.5.1",
+	"main": [
+		"media/js/dataTables.editor.js",
+		"media/css/editor.dataTables.css",
+		"media/images/ajax-loader-small.gif",
+		"media/images/ajax-loader.gif",
+		"media/images/calendar.png",
+		"media/images/close.png",
+		"media/images/shadow_left.png",
+		"media/images/shadow_right.png"
+	],
+	"dependencies": {
+		"jquery": ">=1.7.0"
+	},
+	"license": "MIT",
+	"keywords": [
+		"jquery",
+		"datatables",
+		"datatables.editor",
+		"table",
+		"javascript",
+		"library"
+	],
+	"ignore": [
+		"/.*",
+		"examples",
+		"media/unit_testing",
+		"composer.json",
+		"dataTables.jquery.json",
+		"package.json"
+	]
+}
